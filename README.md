@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙌, Joshua Mistal</h1>
+<h1 align="center">Hi 🙌, I'm Joshua Mistal</h1>
 <h3 align="center">Self-directed learner and developer with a specialization in Machine Learning and three years of hands-on experience. Proven ability to learn on the job, seeking opportunities to leverage existing skills and contribute to communities, adept at bridging programming with real-world impact.</h3>
 
 # ✨About Me:
