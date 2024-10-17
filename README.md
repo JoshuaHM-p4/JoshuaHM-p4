@@ -2,13 +2,14 @@
 <h3 align="center">Self-directed learner and developer with a specialization in Machine Learning and three years of hands-on experience. Proven ability to learn on the job, seeking opportunities to leverage existing skills and contribute to communities, adept at bridging programming with real-world impact.</h3>
 
 # ✨About Me:
-- 🔭 I’m currently working on my [University's Alumni Portal](https://github.com/DavidBatoDev/pup_alumni_portal)
+- 🔭 I’m currently working on my [University's Graduate Alumni Portal](https://github.com/DavidBatoDev/pup_alumni_portal)
 - 🧠 I’m currently learning **Deeplearning Specialization Courses**
 - 👯 I’m looking to collaborate on **Machine Learning Opportunities**
 - 👨‍💻 All of my projects I worked on are available [here](https://github.com/JoshuaHM-p4?tab=repositories)
 - 📓 My kaggle notebooks are found [here](https://www.kaggle.com/joshuamistal)
 - 📃 My resume is available [here](https://docs.google.com/document/d/1n2pJ0n4iFo-RhdaCIElwUvrHFsrJL45H/edit?usp=sharing&ouid=107533158609358893984&rtpof=true&sd=true)
 - 📫 How to reach me: **joshuahmistal2004@gmail.com**<br>
+- 🆙 You can connect with me through linkedin [here](https://www.linkedin.com/in/joshua-h-mistal-3a5aab294/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JoshuaJHM) 
