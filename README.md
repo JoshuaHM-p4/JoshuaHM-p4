@@ -9,7 +9,7 @@
 - 📓 My kaggle notebooks are found [here](https://www.kaggle.com/joshuamistal)
 - 📃 My resume is available [here](https://docs.google.com/document/d/1n2pJ0n4iFo-RhdaCIElwUvrHFsrJL45H/edit?usp=sharing&ouid=107533158609358893984&rtpof=true&sd=true)
 - 📫 How to reach me: **joshuahmistal2004@gmail.com**<br>
-- 🆙 You can connect with me through linkedin [here](https://www.linkedin.com/in/joshua-h-mistal-3a5aab294/)
+- 👇 Or look through my socials below 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JoshuaJHM) 
