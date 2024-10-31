@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙌, I'm Joshua Mistal</h1>
-<h3 align="center">Self-directed learner and developer with a specialization in Machine Learning and three years of hands-on experience. Proven ability to learn on the job, seeking opportunities to leverage existing skills and contribute to communities, adept at bridging programming with real-world impact.</h3>
+<h3 align="center">Computer Engineer with a focus on Machine Learning Specialization. I self-developed myself to program for four years with hands-on experience adapted through software development, UI prototyping, community contributions, bridging them wiht real-world impact.</h3>
 
 # ✨About Me:
 - 🔭 I’m currently working on my [University's Graduate Alumni Portal](https://github.com/DavidBatoDev/pup_alumni_portal)
