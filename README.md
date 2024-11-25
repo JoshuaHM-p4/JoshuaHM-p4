@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer with a focus on Machine Learning Specialization. I self-developed myself to program for four years experience through software development, UI prototyping, community contributions, bridging them with real-world impact.</h3>
 
 # ✨About Me:
-- 🔭 I’m currently working on my [University's Graduate Alumni Portal](https://github.com/DavidBatoDev/pup_alumni_portal)
+- 🔭 I’m currently working as a front end engineer on my [University's Graduate Alumni Portal](https://github.com/DavidBatoDev/pup_alumni_portal)
 - 🧠 I’m currently learning **Deeplearning Specialization Courses**
 - 👯 I’m looking to collaborate on **Machine Learning Opportunities**
 - 👨‍💻 All of my projects I worked on are available [here](https://github.com/JoshuaHM-p4?tab=repositories)
