@@ -6,8 +6,9 @@
 - 🧠 I’m currently learning **Deeplearning Specialization Courses**
 - 👯 I’m looking to collaborate on **Machine Learning Opportunities**
 - 👨‍💻 All of my projects I worked on are available [here](https://github.com/JoshuaHM-p4?tab=repositories)
-- 📓 My kaggle notebooks are found [here](https://www.kaggle.com/joshuamistal)
+- 📓 My kaggle notebooks are found [here](https://www.kaggle.com/joshuamistal) ([repo](https://github.com/JoshuaHM-p4/Machine-Learning-Kaggle-Notebooks))
 - 📃 My resume is available [here](https://docs.google.com/document/d/1n2pJ0n4iFo-RhdaCIElwUvrHFsrJL45H/edit?usp=sharing&ouid=107533158609358893984&rtpof=true&sd=true)
+- 🟩 Datacamp Portfolio found [here](https://www.datacamp.com/portfolio/joshuahmistal2004)
 - 📫 How to reach me: **joshuahmistal2004@gmail.com**<br>
 - 👇 Or look through my socials below 
 
