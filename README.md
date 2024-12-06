@@ -3,6 +3,7 @@
 
 # ✨About Me:
 - 🔭 I’m currently working as a front end engineer on my [University's Graduate Alumni Portal](https://github.com/DavidBatoDev/pup_alumni_portal)
+- 📝 I'm focusing on making a project for my **Datastructures and Algorithms Course**, **my Portfolio**, and **FB Page**
 - 🧠 I’m currently learning **Deeplearning Specialization Courses**
 - 👯 I’m looking to collaborate on **Machine Learning Opportunities**
 - 👨‍💻 All of my projects I worked on are available [here](https://github.com/JoshuaHM-p4?tab=repositories)
